@@ -1,2 +1,2 @@
 # DevOpsLab-ANZ
-For testing
+For testing the Github tool in training.
